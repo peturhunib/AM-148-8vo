@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 75,
+    "height" : 131
+  }, {
+    "width" : 149,
+    "height" : 261
+  }, {
+    "width" : 298,
+    "height" : 522
+  }, {
+    "width" : 595,
+    "height" : 1043
+  }, {
+    "width" : 1190,
+    "height" : 2086
+  }, {
+    "width" : 2379,
+    "height" : 4172
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2379,
+  "@id" : "https://peturhunib.github.io/AM-148-8vo/images/349r",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4172
+}
