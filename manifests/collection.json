@@ -1,0 +1,13 @@
+{
+  "id" : "https://peturhunib.github.io/AM-148-8vo/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in peturhunib/AM-148-8vo project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://peturhunib.github.io/AM-148-8vo/manifests/manifest.json",
+    "label" : "AM 148 8vo, 348v–350v"
+  } ]
+}
