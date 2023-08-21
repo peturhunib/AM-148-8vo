@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2475,
+    "id" : "https://peturhunib.github.io/AM-148-8vo/images/350v/canvas/",
+    "label" : {
+      "none" : [ "350v" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://peturhunib.github.io/AM-148-8vo/images/350v/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://peturhunib.github.io/AM-148-8vo/images/350v/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 78,
+              "height" : 125
+            }, {
+              "width" : 155,
+              "height" : 249
+            }, {
+              "width" : 310,
+              "height" : 497
+            }, {
+              "width" : 619,
+              "height" : 994
+            }, {
+              "width" : 1238,
+              "height" : 1988
+            }, {
+              "width" : 2475,
+              "height" : 3975
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2475,
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/350v",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3975
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2475,
+          "id" : "https://peturhunib.github.io/AM-148-8vo/images/350v/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3975
+        },
+        "target" : "https://peturhunib.github.io/AM-148-8vo/images/350v/canvas/"
+      } ]
+    } ],
+    "height" : 3975
+  }, {
     "width" : 2379,
     "id" : "https://peturhunib.github.io/AM-148-8vo/images/349r/canvas/",
     "label" : {
