@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://peturhunib.github.io/AM-148-8vo/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "AM 148 8vo, 348v–350v",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Kvæðið Angantýr og Hjálmar",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c534438e-bafe-4cc4-bd41-97c44e95444c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://38b99723-2e91-4b31-afbb-ac9a00c5e138",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3958,
+      "width" : 2394,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://57e7803f-8317-48a3-b96f-8c6c00cea412",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://peturhunib.github.io/AM-148-8vo/images/348v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/348v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3958,
+          "width" : 2394
+        },
+        "on" : "http://38b99723-2e91-4b31-afbb-ac9a00c5e138"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9531d17c-bab7-4b70-bcb7-59147bb0597f",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4172,
+      "width" : 2379,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://77fab509-723d-4d4a-ae63-79ec1ae94d74",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://peturhunib.github.io/AM-148-8vo/images/349r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/349r",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4172,
+          "width" : 2379
+        },
+        "on" : "http://9531d17c-bab7-4b70-bcb7-59147bb0597f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cfb312be-75d0-443d-8e36-f5aa5080c7e6",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4009,
+      "width" : 2425,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6987edfe-58e4-4a85-8195-a2a979acbc9e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://peturhunib.github.io/AM-148-8vo/images/349v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/349v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4009,
+          "width" : 2425
+        },
+        "on" : "http://cfb312be-75d0-443d-8e36-f5aa5080c7e6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7ababa8c-6961-4f0d-829f-e1fe43a6c70a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4007,
+      "width" : 2446,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4d9eda1c-033a-4e25-98e1-d1678f35676a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://peturhunib.github.io/AM-148-8vo/images/350r/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/350r",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4007,
+          "width" : 2446
+        },
+        "on" : "http://7ababa8c-6961-4f0d-829f-e1fe43a6c70a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b2d62b7c-4e88-4b1f-9301-3be5f2e538c5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3975,
+      "width" : 2475,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65a736f3-e49c-4b96-98e0-8e42e0ca7d66",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://peturhunib.github.io/AM-148-8vo/images/350v/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://peturhunib.github.io/AM-148-8vo/images/350v",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3975,
+          "width" : 2475
+        },
+        "on" : "http://b2d62b7c-4e88-4b1f-9301-3be5f2e538c5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
